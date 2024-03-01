@@ -11,7 +11,7 @@
 É um repositório usado para armazenar o Dashboard o qual foi contruido para uma empresa acompanhar os redimentos de diferentes bancos no período de um ano no **Intensivo de Power BI** da Hashtag Treinamentos, aulas focadas as na contrução de Dashboards avançados usando o Power BI disponibilizado pela equipe da [Hashtag](https://www.hashtagtreinamentos.com/ "Site da Hashtag")
 
 
-![Dashboard BI](https://github.com/GTBelini22/DashBoard_Producao_PowerBI-/blob/main/assets/Dashboard%20Producao.png)
+![Dashboard BI](https://github.com/GTBelini22/DashBoard_Financeiro_PowerBI/blob/main/assets/Dashboard_financeiro.png)
 
 # Ferramentas e funções
 - Power BI
